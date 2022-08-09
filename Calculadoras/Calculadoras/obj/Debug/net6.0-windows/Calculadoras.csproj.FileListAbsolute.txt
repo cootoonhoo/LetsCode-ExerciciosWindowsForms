@@ -1,0 +1,17 @@
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\bin\Debug\net6.0-windows\Calculadoras.exe
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\bin\Debug\net6.0-windows\Calculadoras.deps.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\bin\Debug\net6.0-windows\Calculadoras.runtimeconfig.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\bin\Debug\net6.0-windows\Calculadoras.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\bin\Debug\net6.0-windows\Calculadoras.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.csproj.AssemblyReference.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.FmrCalculadora.resources
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.csproj.GenerateResource.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.AssemblyInfoInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.AssemblyInfo.cs
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.csproj.CoreCompileInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\refint\Calculadoras.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\Calculadoras.genruntimeconfig.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Calculadoras\Calculadoras\obj\Debug\net6.0-windows\ref\Calculadoras.dll

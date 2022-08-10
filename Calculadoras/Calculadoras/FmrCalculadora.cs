@@ -58,7 +58,8 @@ namespace Calculadoras
                     txbVisor.Text = ValorDisplay;
                     break;
             }
-            
+            // Usar o switch com lambda
+            // Ver o caso negativo 1-1 = -2 (corrigir)
             ValorReal = 0;
             IgualPrecionado = true;
         }

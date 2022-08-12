@@ -15,4 +15,5 @@ D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Arrays\Arrays\obj\Deb
 D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Arrays\Arrays\obj\Debug\net6.0-windows\Arrays.genruntimeconfig.cache
 D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Arrays\Arrays\obj\Debug\net6.0-windows\ref\Arrays.dll
 D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Arrays\Arrays\obj\Debug\net6.0-windows\Arrays.FrmQuestao2.resources
-D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Arrays\Arrays\obj\Debug\net6.0-windows\Arrays.FmrQuestao3.resources
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Arrays\Arrays\obj\Debug\net6.0-windows\Arrays.FrmQuestao3.resources
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Arrays\Arrays\obj\Debug\net6.0-windows\Arrays.FrmQuestao4.resources

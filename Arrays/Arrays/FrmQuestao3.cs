@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Arrays
 {
-    public partial class FmrQuestao3 : Form
+    public partial class FrmQuestao3 : Form
     {
-        public FmrQuestao3()
+        public FrmQuestao3()
         {
             InitializeComponent();
         }

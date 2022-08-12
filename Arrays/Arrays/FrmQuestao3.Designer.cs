@@ -1,6 +1,6 @@
 ﻿namespace Arrays
 {
-    partial class FmrQuestao3
+    partial class FrmQuestao3
     {
         /// <summary>
         /// Required designer variable.

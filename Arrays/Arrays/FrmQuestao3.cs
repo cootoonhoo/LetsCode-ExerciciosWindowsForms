@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Threading;
 
 namespace Arrays
 {
     public partial class FrmQuestao3 : Form
     {
+        Thread T1;
         public FrmQuestao3()
         {
             InitializeComponent();
@@ -51,6 +53,54 @@ namespace Arrays
                 return true;
             }
             return false;
+        }
+        private void questao1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            T1 = new Thread(Form1);
+            T1.SetApartmentState(ApartmentState.STA);
+            T1.Start();
+        }
+
+        private void questao2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            T1 = new Thread(Form2);
+            T1.SetApartmentState(ApartmentState.STA);
+            T1.Start();
+        }
+
+        private void questao3ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            T1 = new Thread(Form3);
+            T1.SetApartmentState(ApartmentState.STA);
+            T1.Start();
+        }
+
+        private void questao4ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            T1 = new Thread(Form4);
+            T1.SetApartmentState(ApartmentState.STA);
+            T1.Start();
+        }
+
+        private void Form1(object obj)
+        {
+            Application.Run(new FrmQuestao1());
+        }
+        private void Form2(object obj)
+        {
+            Application.Run(new FrmQuestao2());
+        }
+        private void Form3(object obj)
+        {
+            Application.Run(new FrmQuestao3());
+        }
+        private void Form4(object obj)
+        {
+            Application.Run(new FrmQuestao4());
         }
     }
 }

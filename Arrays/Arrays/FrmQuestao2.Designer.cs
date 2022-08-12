@@ -34,6 +34,12 @@
             this.txbOutput = new System.Windows.Forms.TextBox();
             this.lblRanqueamento = new System.Windows.Forms.Label();
             this.btnRanquear = new System.Windows.Forms.Button();
+            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
+            this.questão1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.questão2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.questão3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.questão4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblEnunciado
@@ -64,7 +70,7 @@
             this.txbInput.Multiline = true;
             this.txbInput.Name = "txbInput";
             this.txbInput.Size = new System.Drawing.Size(337, 60);
-            this.txbInput.TabIndex = 3;
+            this.txbInput.TabIndex = 2;
             this.txbInput.Text = "1,2,3,4....\r\n10,24,5...";
             this.txbInput.Click += new System.EventHandler(this.txbInput_Click);
             this.txbInput.TextChanged += new System.EventHandler(this.txbInput_TextChanged);
@@ -78,7 +84,7 @@
             this.txbOutput.Name = "txbOutput";
             this.txbOutput.ReadOnly = true;
             this.txbOutput.Size = new System.Drawing.Size(337, 66);
-            this.txbOutput.TabIndex = 4;
+            this.txbOutput.TabIndex = 3;
             // 
             // lblRanqueamento
             // 
@@ -96,10 +102,51 @@
             this.btnRanquear.Location = new System.Drawing.Point(282, 311);
             this.btnRanquear.Name = "btnRanquear";
             this.btnRanquear.Size = new System.Drawing.Size(97, 41);
-            this.btnRanquear.TabIndex = 6;
+            this.btnRanquear.TabIndex = 1;
             this.btnRanquear.Text = "Ranquear";
             this.btnRanquear.UseVisualStyleBackColor = true;
             this.btnRanquear.Click += new System.EventHandler(this.btnRanquear_Click);
+            // 
+            // menuStrip1
+            // 
+            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.questão1ToolStripMenuItem,
+            this.questão2ToolStripMenuItem,
+            this.questão3ToolStripMenuItem,
+            this.questão4ToolStripMenuItem});
+            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
+            this.menuStrip1.Name = "menuStrip1";
+            this.menuStrip1.Size = new System.Drawing.Size(428, 24);
+            this.menuStrip1.TabIndex = 7;
+            this.menuStrip1.Text = "menuStrip1";
+            // 
+            // questão1ToolStripMenuItem
+            // 
+            this.questão1ToolStripMenuItem.Name = "questão1ToolStripMenuItem";
+            this.questão1ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
+            this.questão1ToolStripMenuItem.Text = "Questão 1";
+            this.questão1ToolStripMenuItem.Click += new System.EventHandler(this.questao1ToolStripMenuItem_Click);
+            // 
+            // questão2ToolStripMenuItem
+            // 
+            this.questão2ToolStripMenuItem.Name = "questão2ToolStripMenuItem";
+            this.questão2ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
+            this.questão2ToolStripMenuItem.Text = "Questão 2";
+            this.questão2ToolStripMenuItem.Click += new System.EventHandler(this.questao2ToolStripMenuItem_Click);
+            // 
+            // questão3ToolStripMenuItem
+            // 
+            this.questão3ToolStripMenuItem.Name = "questão3ToolStripMenuItem";
+            this.questão3ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
+            this.questão3ToolStripMenuItem.Text = "Questão 3";
+            this.questão3ToolStripMenuItem.Click += new System.EventHandler(this.questao3ToolStripMenuItem_Click);
+            // 
+            // questão4ToolStripMenuItem
+            // 
+            this.questão4ToolStripMenuItem.Name = "questão4ToolStripMenuItem";
+            this.questão4ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
+            this.questão4ToolStripMenuItem.Text = "Questão 4";
+            this.questão4ToolStripMenuItem.Click += new System.EventHandler(this.questao4ToolStripMenuItem_Click);
             // 
             // FrmQuestao2
             // 
@@ -112,9 +159,13 @@
             this.Controls.Add(this.txbInput);
             this.Controls.Add(this.txbObs);
             this.Controls.Add(this.lblEnunciado);
+            this.Controls.Add(this.menuStrip1);
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "FrmQuestao2";
             this.Text = "Questão 2 ";
             this.Load += new System.EventHandler(this.FrmQuestao2_Load);
+            this.menuStrip1.ResumeLayout(false);
+            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -128,5 +179,10 @@
         private TextBox txbOutput;
         private Label lblRanqueamento;
         private Button btnRanquear;
+        private MenuStrip menuStrip1;
+        private ToolStripMenuItem questão1ToolStripMenuItem;
+        private ToolStripMenuItem questão2ToolStripMenuItem;
+        private ToolStripMenuItem questão3ToolStripMenuItem;
+        private ToolStripMenuItem questão4ToolStripMenuItem;
     }
 }

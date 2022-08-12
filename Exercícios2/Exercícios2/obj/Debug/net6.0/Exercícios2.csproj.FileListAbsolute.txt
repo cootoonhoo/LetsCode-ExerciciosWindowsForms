@@ -1,0 +1,15 @@
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\bin\Debug\net6.0\Exercícios2.exe
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\bin\Debug\net6.0\Exercícios2.deps.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\bin\Debug\net6.0\Exercícios2.runtimeconfig.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\bin\Debug\net6.0\Exercícios2.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\bin\Debug\net6.0\Exercícios2.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.csproj.AssemblyReference.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.AssemblyInfoInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.AssemblyInfo.cs
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.csproj.CoreCompileInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\refint\Exercícios2.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\Exercícios2.genruntimeconfig.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Exercícios2\Exercícios2\obj\Debug\net6.0\ref\Exercícios2.dll

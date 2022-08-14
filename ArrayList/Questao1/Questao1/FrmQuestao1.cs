@@ -51,5 +51,13 @@ namespace Questao1
             }
             return Posicoes;
         }
+
+        private void txbNumero_Enter(object sender, EventArgs e)
+        {
+            if (txbNumero.Text == "Número inválido") {
+                txbNumero.Text = "";
+                txbNumero.ForeColor = Color.Black;
+            }
+        }
     }
 }

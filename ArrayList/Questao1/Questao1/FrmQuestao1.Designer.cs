@@ -102,6 +102,7 @@
             this.txbNumero.Name = "txbNumero";
             this.txbNumero.Size = new System.Drawing.Size(279, 23);
             this.txbNumero.TabIndex = 6;
+            this.txbNumero.Enter += new System.EventHandler(this.txbNumero_Enter);
             // 
             // FrmQuestao1
             // 

@@ -14,7 +14,7 @@
 </li>
 <li>
   <a href= "https://github.com/cootoonhoo/LetsCode-ExerciciosWindowsForms/tree/main/Arrays/Arrays">
-     <b>ArrayList</b>
+     <b>List</b>
  </a>
    <i>Exercícios utilizando a colleciton List</i>
 </li>

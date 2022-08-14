@@ -70,7 +70,7 @@
             this.txbInput.Multiline = true;
             this.txbInput.Name = "txbInput";
             this.txbInput.Size = new System.Drawing.Size(337, 60);
-            this.txbInput.TabIndex = 2;
+            this.txbInput.TabIndex = 3;
             this.txbInput.Text = "1,2,3,4....\r\n10,24,5...";
             this.txbInput.Click += new System.EventHandler(this.txbInput_Click);
             this.txbInput.TextChanged += new System.EventHandler(this.txbInput_TextChanged);
@@ -84,7 +84,7 @@
             this.txbOutput.Name = "txbOutput";
             this.txbOutput.ReadOnly = true;
             this.txbOutput.Size = new System.Drawing.Size(337, 66);
-            this.txbOutput.TabIndex = 3;
+            this.txbOutput.TabIndex = 4;
             // 
             // lblRanqueamento
             // 

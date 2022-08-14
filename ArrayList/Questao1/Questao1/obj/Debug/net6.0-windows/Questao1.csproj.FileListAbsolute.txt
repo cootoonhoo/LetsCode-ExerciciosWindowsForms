@@ -1,0 +1,17 @@
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\bin\Debug\net6.0-windows\Questao1.exe
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\bin\Debug\net6.0-windows\Questao1.deps.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\bin\Debug\net6.0-windows\Questao1.runtimeconfig.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\bin\Debug\net6.0-windows\Questao1.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\bin\Debug\net6.0-windows\Questao1.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.csproj.AssemblyReference.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.FrmQuestao1.resources
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.csproj.GenerateResource.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.AssemblyInfoInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.AssemblyInfo.cs
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.csproj.CoreCompileInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\refint\Questao1.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\Questao1.genruntimeconfig.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\ArrayList\Questao1\Questao1\obj\Debug\net6.0-windows\ref\Questao1.dll

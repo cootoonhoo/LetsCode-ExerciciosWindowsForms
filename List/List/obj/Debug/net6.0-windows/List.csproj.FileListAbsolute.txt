@@ -1,0 +1,17 @@
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\bin\Debug\net6.0-windows\List.exe
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\bin\Debug\net6.0-windows\List.deps.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\bin\Debug\net6.0-windows\List.runtimeconfig.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\bin\Debug\net6.0-windows\List.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\bin\Debug\net6.0-windows\List.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.csproj.AssemblyReference.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.FrmQuestao1.resources
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.csproj.GenerateResource.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.AssemblyInfoInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.AssemblyInfo.cs
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.csproj.CoreCompileInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\refint\List.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\List.genruntimeconfig.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\List\List\obj\Debug\net6.0-windows\ref\List.dll

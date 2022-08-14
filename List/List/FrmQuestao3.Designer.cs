@@ -77,18 +77,21 @@
             this.questão1ToolStripMenuItem.Name = "questão1ToolStripMenuItem";
             this.questão1ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
             this.questão1ToolStripMenuItem.Text = "Questão 1";
+            this.questão1ToolStripMenuItem.Click += new System.EventHandler(this.questao1ToolStripMenuItem_Click);
             // 
             // questão2ToolStripMenuItem
             // 
             this.questão2ToolStripMenuItem.Name = "questão2ToolStripMenuItem";
             this.questão2ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
             this.questão2ToolStripMenuItem.Text = "Questão 2";
+            this.questão2ToolStripMenuItem.Click += new System.EventHandler(this.questao2ToolStripMenuItem_Click);
             // 
             // questão3ToolStripMenuItem
             // 
             this.questão3ToolStripMenuItem.Name = "questão3ToolStripMenuItem";
             this.questão3ToolStripMenuItem.Size = new System.Drawing.Size(72, 20);
             this.questão3ToolStripMenuItem.Text = "Questão 3";
+            this.questão3ToolStripMenuItem.Click += new System.EventHandler(this.questao3ToolStripMenuItem_Click);
             // 
             // lblOutput
             // 

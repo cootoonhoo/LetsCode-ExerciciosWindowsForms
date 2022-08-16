@@ -18,3 +18,9 @@
  </a>
    <i>Exercícios utilizando a colleciton List</i>
 </li>
+<li>
+  <a href= "https://github.com/cootoonhoo/LetsCode-ExerciciosWindowsForms/tree/main/Arrays/Arrays">
+     <b>Dictionary</b>
+ </a>
+   <i>Exercícios aplicando alguns conceitos de dictionary</i>
+</li>

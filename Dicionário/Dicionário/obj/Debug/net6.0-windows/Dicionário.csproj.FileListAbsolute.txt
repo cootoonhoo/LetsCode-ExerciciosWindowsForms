@@ -1,0 +1,17 @@
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\bin\Debug\net6.0-windows\Dicionário.exe
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\bin\Debug\net6.0-windows\Dicionário.deps.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\bin\Debug\net6.0-windows\Dicionário.runtimeconfig.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\bin\Debug\net6.0-windows\Dicionário.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\bin\Debug\net6.0-windows\Dicionário.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.csproj.AssemblyReference.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.Form1.resources
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.csproj.GenerateResource.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.AssemblyInfoInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.AssemblyInfo.cs
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.csproj.CoreCompileInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\refint\Dicionário.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.genruntimeconfig.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\ref\Dicionário.dll

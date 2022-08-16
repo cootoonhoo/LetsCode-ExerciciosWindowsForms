@@ -18,6 +18,9 @@ namespace Dicionário
 
         private void CalcularVogais(string text) {
             text = text.ToUpper();
+
+            text = text.Normalize(System.Text.NormalizationForm.FormD);
+
             Dictionary<string, int> Vogais = new Dictionary<string, int>();
             Vogais.Add("A", 0);
             Vogais.Add("E", 0);

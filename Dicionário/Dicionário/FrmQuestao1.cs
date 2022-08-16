@@ -1,8 +1,9 @@
+using System.Threading;
 namespace Dicionário
 {
     public partial class Form1 : Form
     {
-
+        Thread T1;
         public Form1()
         {
             InitializeComponent();
@@ -55,6 +56,29 @@ namespace Dicionário
             txbO.Text = Vogais["O"].ToString();
             txbU.Text = Vogais["U"].ToString();
             Vogais.Clear();
+        }
+        private void questao1ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            T1 = new Thread(form1);
+            T1.SetApartmentState(ApartmentState.STA);
+            T1.Start();
+        }
+
+        private void questao2ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            T1 = new Thread(Form2);
+            T1.SetApartmentState(ApartmentState.STA);
+            T1.Start();
+        }
+        private void form1(object obj)
+        {
+            Application.Run(new Form1());
+        }
+        private void Form2(object obj)
+        {
+            Application.Run(new FrmQuestao2());
         }
     }
 }

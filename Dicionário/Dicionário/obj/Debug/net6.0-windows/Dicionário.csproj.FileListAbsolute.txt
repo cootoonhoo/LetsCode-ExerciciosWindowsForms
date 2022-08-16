@@ -15,3 +15,4 @@ D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionár
 D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.pdb
 D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.genruntimeconfig.cache
 D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\ref\Dicionário.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Dicionário\Dicionário\obj\Debug\net6.0-windows\Dicionário.FrmQuestao2.resources

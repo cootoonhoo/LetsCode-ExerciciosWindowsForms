@@ -88,10 +88,14 @@ namespace Dicionário
         }
         private bool Verificacoes() {
             int CountLacos = CountIf + CountWhile;
-            int CountOperadores = CountMaior + CountMenor + CountMaiorIgual + CountMenorIgual + CountIgual + CountDif;
+            int CountMaiorMenor = CountMaior + CountMenor;
+            int CountMaiorMenorIgual = CountMaiorIgual + CountMenorIgual;
+            int CountIgualDiferente = CountIgual + CountDif;
 
             if (CountLacos > 3) return false;
-            if (CountOperadores > 7) return false;
+            if (CountMaiorMenor > 3) return false;
+            if (CountMaiorMenorIgual > 3) return false;
+            if (CountIgualDiferente > 3) return false;
 
             return true;        
         }

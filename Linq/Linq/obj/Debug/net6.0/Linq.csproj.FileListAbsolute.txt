@@ -1,0 +1,15 @@
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\bin\Debug\net6.0\Linq.exe
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\bin\Debug\net6.0\Linq.deps.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\bin\Debug\net6.0\Linq.runtimeconfig.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\bin\Debug\net6.0\Linq.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\bin\Debug\net6.0\Linq.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.csproj.AssemblyReference.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfoInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.AssemblyInfo.cs
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.csproj.CoreCompileInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\refint\Linq.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\Linq.genruntimeconfig.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Linq\Linq\obj\Debug\net6.0\ref\Linq.dll

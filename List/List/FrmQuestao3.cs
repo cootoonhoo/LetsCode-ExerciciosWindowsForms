@@ -14,8 +14,8 @@ namespace List
     public partial class FrmQuestao3 : Form
     {
         Thread T1;
-        int MinPos = int.MaxValue, MaxNeg = int.MinValue;
-        List<int> Lista = new();
+        List<int> ListaPositiva = new();
+        List<int> ListaNegativa = new();
         public FrmQuestao3()
         {
             InitializeComponent();
@@ -41,7 +41,8 @@ namespace List
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            Lista.Clear();
+            ListaPositiva.Clear();
+            ListaPositiva.Clear();
             if (!Validation())
             {
                 lblOutput.ForeColor = Color.Red;
@@ -52,23 +53,39 @@ namespace List
             foreach (var item in txbLista.Text.Split(','))
             {
                 var Numero = int.Parse(item);
-                Lista.Add(Numero);
+                if (Numero >= 0)
+                {
+                    ListaPositiva.Add(Numero);
+                }
+                else {
+                    ListaNegativa.Add(Numero);
+                }
             }
-            int Positivo = Lista.Max();
-            int Negativo = Lista.Min();
+            int Positivo;
+            int Negativo;
 
-            if (Positivo == Negativo * -1) {
+            if (ListaPositiva.Count == 0)
+                Positivo = int.MaxValue;
+            else
+                Positivo = ListaPositiva.Min();
+
+            if (ListaNegativa.Count == 0)
+                Negativo = int.MinValue;
+            else
+                Negativo = ListaPositiva.Min();
+
+            if (Positivo == Math.Abs(Negativo)) {
                 lblOutput.ForeColor = Color.Black;
                 lblOutput.Text = "Nenhum";
             }
-            else if (Positivo > Negativo * -1)
+            else if (Positivo > Math.Abs(Negativo))
             {
                 lblOutput.ForeColor = Color.Black;
-                lblOutput.Text = $"{Lista.Min()}";
+                lblOutput.Text = $"{Negativo}";
             }
             else {
                 lblOutput.ForeColor = Color.Black;
-                lblOutput.Text = $"{Lista.Max()}";
+                lblOutput.Text = $"{Positivo}";
             }
         }
         private bool Validation()

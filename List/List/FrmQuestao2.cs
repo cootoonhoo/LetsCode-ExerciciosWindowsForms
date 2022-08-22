@@ -77,7 +77,7 @@ namespace List
         {
             this.Close();
             T1 = new Thread(Form1);
-            T1.SetApartmentState(ApartmentState.STA);
+            //T1.SetApartmentState(ApartmentState.STA);
             T1.Start();
         }
 

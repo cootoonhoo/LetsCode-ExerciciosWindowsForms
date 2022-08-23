@@ -1,29 +1,44 @@
 ﻿using System.Threading;
+using System.Threading.Tasks;
 using System.Diagnostics;
 
-namespace ExercicoThread {
-    class Program {
-        static Thread[] Threads = new Thread[7];
-        static void Main() {
+namespace ExercicoThread
+{
+    class Program
+    {
+        static void Main()
+        {
             Stopwatch sw = Stopwatch.StartNew();
-            for (int i = 0; i < Threads.Length; i++) {
-                Threads[i] = new Thread(new ThreadStart(TaskExecute));
-                Threads[i].Start();
-            }
-        foreach(var t in Threads){
-                t.Join();
-            }
+            int QntDeThreads = 0;
+            bool teste;
+            do
+            {
+                Console.WriteLine("Digite a quantidade de threads que deseja");
+                teste = int.TryParse(Console.ReadLine(), out QntDeThreads) && QntDeThreads > 0;
+                if (!teste) Console.WriteLine("Valor inválido");
+            } while (!teste);
+            Console.WriteLine("Rodando...");
+            RodarTask(QntDeThreads);
             sw.Stop();
-            Console.WriteLine($"O tempo gasto foi de {sw.Elapsed}");
+            Console.WriteLine($"Foram gastos {sw.Elapsed}");
         }
-
-        static void ApiCall() {
-            Thread.Sleep(2000);
+        static void AcertarBaseDeDados()
+        {
+            Thread.Sleep(4000);
         }
-        static void TaskExecute() {
-            for (int i = 0; i < 100; i++) {
-                ApiCall();
-            }
+        static void EnviarEmail()
+        {
+            Thread.Sleep(4000);
+        }
+        static void LimparArquivosTemporarios()
+        {
+            Thread.Sleep(4000);
+        }
+        static void RodarTask(int numThreads)
+        {
+            Parallel.Invoke(new ParallelOptions { MaxDegreeOfParallelism = numThreads },
+                new Action(AcertarBaseDeDados), new Action(EnviarEmail), new Action(LimparArquivosTemporarios)
+                );
         }
     }
 }

@@ -1,0 +1,17 @@
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\bin\Debug\net6.0-windows\Async.exe
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\bin\Debug\net6.0-windows\Async.deps.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\bin\Debug\net6.0-windows\Async.runtimeconfig.json
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\bin\Debug\net6.0-windows\Async.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\bin\Debug\net6.0-windows\Async.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.csproj.AssemblyReference.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.Questao1.resources
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.csproj.GenerateResource.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.GeneratedMSBuildEditorConfig.editorconfig
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.AssemblyInfoInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.AssemblyInfo.cs
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.csproj.CoreCompileInputs.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\refint\Async.dll
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.pdb
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\Async.genruntimeconfig.cache
+D:\Let's Code\Técnicas de Programação I  C#\Exercícios\Async\Async\obj\Debug\net6.0-windows\ref\Async.dll

@@ -24,3 +24,21 @@
  </a>
    <i>Exercícios aplicando alguns conceitos de dictionary</i>
 </li>
+<li>
+  <a href= "https://github.com/cootoonhoo/LetsCode-ExerciciosWindowsForms/tree/main/Linq">
+     <b>Linq</b>
+ </a>
+   <i>Manipulação de collections usando Linq</i>
+</li>
+<li>
+  <a href= "https://github.com/cootoonhoo/LetsCode-ExerciciosWindowsForms/tree/main/Threading">
+     <b>Thread</b>
+ </a>
+   <i>Introdução a programação com Threads</i>
+</li>
+<li>
+  <a href= "https://github.com/cootoonhoo/LetsCode-ExerciciosWindowsForms/tree/main/Async">
+     <b>Programação asíncrona</b>
+ </a>
+   <i>Primeiro contato com tasks, async e await</i>
+</li>
